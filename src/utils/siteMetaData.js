@@ -10,6 +10,7 @@ const siteMetadata = {
     socialBanner: '/social-banner.png', 
     email: 'parthawasthi171@gmail.com', 
     locale: 'en-IN',
+    github: 'https://github.com/DarkMythKnight/CF-01-HackCom',
   }
   
   export default siteMetadata
