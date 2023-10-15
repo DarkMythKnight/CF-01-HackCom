@@ -2,10 +2,9 @@ import InsightRoll from "@/src/components/About/InsightRoll";
 
 
 const insights = [
-    "5 Years Completed",
+    "3 month Completed",
     "98% Client Satisfaction",
-    "20K+ Subscribers",
-    "Recipient of the Innovative Transport Award 🏆",
+    "150+ Subscribers",
   ];
 
 export default function AboutLayout({ children }) {

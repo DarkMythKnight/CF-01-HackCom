@@ -16,7 +16,7 @@ const Skills = () => {
           <div className="flex flex-col md:flex-row gap-6">
             <div className="w-full lg:w-1/4 rounded-3xl overflow-hidden">
               <img
-                src="/"
+                src="../Parth.gif"
                 alt="Parth Awasthi"
                 className="w-full h-full object-cover aspect-video lg:aspect-square"
               />
@@ -38,7 +38,7 @@ const Skills = () => {
           <div className="flex flex-col md:flex-row-reverse gap-6">
             <div className="w-full lg:w-1/4 rounded-3xl overflow-hidden">
               <img
-                src="/"
+                src="../Priyanshi.gif"
                 alt="Erin Calzoni"
                 className="w-full h-full object-cover aspect-video lg:aspect-square"
               />

@@ -1,4 +1,4 @@
-// File: /home/parth/Downloads/Nextjs-tailwindcss-blog-template-main/src/app/find/page.js
+// File: /home/parth/Downloads/CF-01 HackCom/src/app/find/page.js
 import * as entry from '../../../../src/app/find/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
