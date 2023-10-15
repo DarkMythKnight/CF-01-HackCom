@@ -1,10 +1,14 @@
-import Map from '@/src/components/Map/Map'
-import React from 'react'
+import Map from "@/src/components/Map/Map";
+import React from "react";
+import Transport from "@/src/components/Transport/Transport";
 
 const page = () => {
   return (
-    <Map />
-  )
-}
+    <div>
+      <Map />
+      <Transport />
+    </div>
+  );
+};
 
-export default page
+export default page;

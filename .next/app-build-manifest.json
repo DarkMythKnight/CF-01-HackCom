@@ -40,6 +40,7 @@
     "/find/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
+      "static/css/app/find/page.css",
       "static/chunks/app/find/page.js"
     ]
   }
